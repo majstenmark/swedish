@@ -1,0 +1,33 @@
+2 Öppna och stäng gripdonet. Öppna not verb.
+20 1/ 3 Rör dig i z-riktiningen tills kontakt och timeout. Not until!
+24 Not AND-condition.
+25 2/3 failed. Not until.
+26 Not until. 
+27 2/3 failed. Not until.
+48 Skruva skruven i muttern med hjälp av en skruvmejsel. Med hjälp av != use.
+
+53. Förflytta dig i z-riktningen tills uppmätning av 5 Newton.
+55. Not until.
+56. Sök i z-riktningen tills kontakt medan du håller 5 N i y-riktningen. Until is missing.
+57. Until is missing.
+58. Until is missing.
+61. Until is missing.
+62. Until is missing.
+64. Until is missing.
+65. Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, gå i z-riktningen tills du känner 4 Newton. Not a while condition.
+66. Cannot find while.
+67 1/2 Cannot find while. Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, flytta dig i z-riktningen tills du känner 4 Newton.
+68. Not while.
+69. Not while.
+70. Not while.
+76. Flytta till slutpositionen, öppna gripdonet och dra tillbaka från boxen. Dra tillbaka -> Retract does not exist in dictionary.
+80. Närma dig boxen, öppna gripdonet och förflytta dig till startpositionen, stäng sen gripdonet och dra tillbaka från fixturen.
+84- 86. Not yet supported.
+90. Grip - > pick and Greppa -> hold.
+91. Not supported. 
+92 Starta om -> start.
+93. Not supported.
+94. Stänga av -> close.
+95-96. Kör/exekvera != run.
+
+

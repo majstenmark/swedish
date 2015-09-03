@@ -1,0 +1,97 @@
+3 Plocka upp boxen och lägg den på bordet. Ta upp boxen och placera den på bordet. Plocka boxen och sätt den på bordet.
+3 Gripdonet ska bli öppnat och stängt. Gripdonet ska öppnas och stängas. Öppna och stäng gripdonet.
+4 Boxen ska bli plockad och placerad på bordet. Boxen ska bli tagen och läggas på bordet. Boxen ska tas upp och läggas på bordet. Boxen ska plockas och sättas på bordet. 
+2 Ta metallplattan från brickan, lägg den sen i pallen. Plocka metallplattan från brickan, placera den på pallen.
+4 Kan du ta boxen från bordet och lägga den på brickan. Kan du plocka upp boxen från bordet och placera den på brickan. Skulle du kunna plocka boxen och sätta den på brickan. Skulle du kunna ta boxen och lägga den på brickan.
+2 Öppna gripdonet, tack. Snälla kan du öppna gripdonet.
+3 Boxen skulle ha blivit plockad och placerad på bordet. Boxen skulle ha plockats och lagts på bordet. Boxen skulle ha blivit tagen och lagd på bordet.
+2 Du borde ta nålarna och lägga dem på bordet. Du skulle ha tagit nålarna och placerat dem på bordet.
+2 Du tog boxen och placerade det på bordet. Du tog upp boxen och lade den på bordet.
+1 Boxbotten ska bli tagen och placerad på bordet. 
+2 Vad sägs om att ta kameran och montera den i fattningen. Hur med att plocka kameran och montera den på hylsan.
+2 Boxen skulle ha blivit tagen från fixturen. Boxen skulle ha blivit plockad från fixturen.
+4 Ta alla boxar från brickan och placera dem på bordet. Ta upp alla boxar från brickan och placera dem på bordet. Plocka upp alla boxar från brickan och lägg dem på bordet. Plocka alla boxar från brickan och sätt dem på bordet.
+1 Plocka upp boxarna, de ska bli placerade på brickan. 
+1 Plocka upp boxarna och sätt dem på bordet. 
+3 Flytta boxen till brickan. Förflytta boxen till brickan. Transportera boxen till brickan.
+2 Boxen ska bli flyttad från pallen till brickan. Boxen ska flyttas från pallen till brickan.
+3 Sök i z-riktningen tills kontakt. Rör dig i z-riktningen tills kontakt. Förflytta dig i z-riktningen tills kontakt.
+3 Sök i x-riktningen tills kontakt eller timeout. Rör dig i z-riktningen tills kontakt eller timeout. Förflytta dig i z-riktningen tills kontakt eller timeout.
+3 Sök i z-riktningen tills kontakt och timeout. Rör dig i z-riktningen tills kontakt och timeout. Förflytta dig i z-riktningen tills kontakt och timeout.
+3 Sök i z-riktningen tills kraften 5 Newton. Rör dig i z-riktningen tills kraften 5 Newton. Förflytta dig i z-riktningen tills kraften 5 Newton.
+3 Sök i z-riktningen tills du mäter 5 Newton. Rör dig i z-riktningen tills du mäter 5 Newton. Förflytta dig i z-riktningen tills du mäter 5 Newton.
+3 Sök i z-riktningen tills du mäter 5 Newton eller timeout. Rör dig i z-riktningen tills du mäter 5 Newton eller timeout. Förflytta dig i z-riktningen tills du mäter 5 Newton eller timeout.
+3 Sök i z-riktningen tills du mäter 5 Newton och kontakt. Rör dig i z-riktningen tills du mäter 5 Newton och kontakt. Förflytta dig i z-riktningen tills du mäter 5 Newton och kontakt.
+3 Sök i z-riktningen tills timeout eller du mäter 5 Newton. Rör dig i z-riktningen tills timeout eller du mäter 5 Newton. Förflytta dig i z-riktningen tills timeout eller du mäter 5 Newton.
+3 Sök i z-riktningen tills timeout och du mäter 5 Newton. Rör dig i z-riktningen tills timeout och du mäter 5 Newton. Förflytta dig i z-riktningen tills timeout och du mäter 5 Newton.
+3 Sök i z-riktningen tills timeout eller du mäter 5 Newton. Rör dig i z-riktningen tills timeout eller du mäter 5 Newton. Förflytta dig i z-riktningen tills timeout eller du mäter 5 Newton.
+2 Montera metallplattan på PCB:n genom att använda insättningsmetoden. Infoga metallplattan på PCB:n, använd insättningsmetoden.
+1 Gå till hempositionen. 
+2 Förflytta dig till hempositionen. Flytta dig till hempositionen.
+2 Flytta armen till startpositionen. Förflytta armen till startpositionen.
+2 Armen ska flyttas till hempositionen. Armen ska förflyttas till hempositionen.
+2 Armen ska bli flyttad till startpositionen. Armen ska bli förflyttad till startpositionen.
+1 Boxarna ska bli tagna och bli placerade på brickan.
+2 Ta tre boxar från fixturen och placera dem på bordet. Ta, från fixturen, tre boxar och placera dem på bordet. 
+2 Boxen och boxbotten ska bli monterade. Boxen och boxbotten ska bli sammanfogade. 
+3 Montera brytaren och boxbotten. Montera ihop brytaren och boxbotten. Sammanfoga brytaren och boxbotten.
+3 Montera brytaren med boxbotten. Montera ihop brytaren med boxbotten. Sammanfoga brytaren med boxbotten.
+3 Montera brytaren på boxbotten. Montera ihop brytaren på boxbotten. Sammanfoga brytaren på boxbotten.
+1 Ta brytaren från fixturen och montera den på boxbotten genom att använda snapfit.
+1 Använd snapfit för att montera brytaren på boxen.
+1 Använd snapfit för att montera brytaren med boxen.
+1 Använd snapfit för att montera brytaren och boxen.
+1 Använd snapfit för att montera brytaren till boxen.
+1 Tillämpa snapfit för att montera brytaren till boxen.
+1 Applicera snapfit för att montera brytaren till boxen.
+1 Skruva ihop skruven med muttern. 
+1 Skruva skruven i muttern med hjälp av en skruvmejsel.
+1 Byt till fingergripdonet.
+1 Verktyget ska bli utbytt från tryckluftsgripdonet till fingergripdonet.
+3 Rör dig utmed y-axeln tills timeout. Sök utefter y-axeln tills timeout. Flytta dig längs med y-axeln tills timeout.
+1 Förflytta dig i z-riktningen tills du mäter 5 Newton. 
+2 Förflytta dig i z-riktningen tills uppmätning av 5 Newton. Flytta i z-riktningen tills uppmätning av 5 Newton.
+4 Förflytta dig längs med z-axeln tills du mäter 5 Newton. Flytta längs med z-axeln tills du mäter 5 Newton. Förflytta dig utmed z-axeln tills du mäter 5 Newton. Förflytta dig utefter z-axeln tills du mäter 5 Newton.
+2 Tills kontakt, sök i z-riktningen. Tills kontakt, rör dig i z-riktningen. 
+1 Sök i z-riktningen tills kontakt medan du håller 5 N i y-riktningen. 
+1 Flytta dig i z-riktningen tills kontakt medan du håller 5 N i y-riktningen och håller 4 N i x-riktningen.
+1 Flytta dig i z-riktningen tills kontakt medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen.
+2 Flytta dig längs med z-axeln tills kontakt medan du bibehåller 5 N i y-riktningen och håller 4 N i x-riktningen. Flytta dig utmed z-axeln tills kontakt medan du bibehåller 5 N i y-riktningen och håller 4 N i x-riktningen.
+1 Flytta dig längs med z-axeln tills kontakt medan du håller 5 Newton i y-riktningen och bibehåller 4 Newton i x-riktningen.
+1 Sök i z-riktningen tills kontakt medan du bibehåller 5 N i y-riktningen och håller 4 N i x-riktningen.
+1 Sök i z-riktningen tills kontakt medan du håller 5 Newton i y-riktningen och bibehåller 4 Newton i x-riktningen.
+1 Flytta dig utmed z-axeln tills kontakt eller 3 N medan du håller 5 Newton i y-riktningen och bibehåller 4 Newton i x-riktningen.
+1 Flytta dig i z-riktningen tills timeout eller kraften 3 N medan du håller 5 Newton i y-riktningen och bibehåller 4 Newton i x-riktningen.
+1 Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, gå i z-riktningen tills du känner 4 Newton. 
+1 Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, gå i z-riktningen tills du känner 4 Newton eller timeout. 
+2 Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, flytta dig i z-riktningen tills du känner 4 Newton. Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, rör dig i z-riktningen tills du känner 4 Newton.
+2 Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, flytta dig i z-riktningen tills du känner 4 Newton eller timeout. Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, rör dig i z-riktningen tills du känner 4 Newton eller timeout.
+1 Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, sök i z-riktningen tills du känner 4 Newton.
+1 Medan du håller 5 Newton i y-riktningen och håller 4 Newton i x-riktningen, sök i z-riktningen tills du känner 4 Newton eller timeout.
+2 Rotera skruven runt z-axeln tills stopp. Snurra skruven runt z-axeln tills stopp.
+2 Rotera runt z-axeln tills stopp. Snurra runt z-axeln tills stopp. 
+1 Vrid runt z-axeln tills stopp.
+3 Kan du vrida runt z-axeln tills stopp. Kan du rotera runt z-axeln tills stopp. Kan du snurra runt z-axeln tills stopp.
+1 Vrid skruven runt z-axeln tills stopp.
+2 Montera brytaren med boxen, använd snapfit. Montera ihop brytaren med boxen genom att använda snapfit.
+1 Flytta till slutpositionen, öppna gripdonet och dra tillbaka från boxen.
+2 Lokalisera pallen. Hitta pallen.
+1 Närma dig boxen. 
+1 Närma dig boxen, öppna gripdonet och förflytta dig till startpositionen, stäng sen gripdonet och dra tillbaka från fixturen.
+2 Snälla ta boxen och placera den på bordet. Var vänlig och plocka upp boxen och lägg den på bordet. 
+1 Kan du vänligen ta boxen och placera den på fixturen.
+1 Kan du kanske ta boxen och sen snälla placera den på fixturen.
+1 Ta inte boxen och lägg den på fixturen.
+1 Döda inte människan.
+2 Du ska inte ta boxen och placera den på bordet. Du ska inte ta boxen och inte placera den på bordet. 
+1 Plocka visst upp boxen.
+1 Förflytta dig till hempositionen men plocka inte upp boxen.
+1 Flytta till hörnet på fixturen och släpp boxen.
+2 Grip nålen. Greppa nålen.
+1 Om du mäter mer än 5 N, stanna uppgiften.
+1 Starta om programmet. 
+1 Vid kollision, starta om programmet. 
+2 Stanna exekveringen. Stäng av exekveringen.
+2 Kör kalibreringsrutinen. Exekvera kalibreringsrutinen.
+3 Upprepa skruvningen. Kör om skruvningen. Starta om skruvningen.
+  

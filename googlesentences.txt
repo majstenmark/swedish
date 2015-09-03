@@ -1,0 +1,96 @@
+3 Pick up the box and put it on the table. Take up the box and place it on the table. Pick the box and put it on the table.
+3 The gripper is to be opened and closed. The gripper is opened and closed. Open and close the gripper.
+4 The box will be picked and placed on the table. The box will be taken and put on the table. The box will be brought up and laid on the table. The box should be picked and placed on the table. 
+2 Take the metal plate off the tray, put it late in the stool. Pick the metal plate from the tray , place it on the podium.
+4 Can you take the box from the table and put it on the tray. Can you pick up the box from the table and place it on the tray. Would you be able to pick the box and put it on the tray. Could you take the box and put it on the tray.
+2 Open gripper, thanks. Please can you open the gripper.
+3 The box would have been picked and placed on the table. The box would have been picked and placed on the table. The box should have been taken and laid on the table.
+2 You should take the needles and put them on the table. You would have taken the needles and placed them on the table.
+2 You took the box and placed it on the table. You took the box and placed it on the table.
+1 The box bottom to be taken and placed on the table. 
+2 How about taking the camera and mount it in the socket. How to pick the camera and mount it on the sleeve.
+2 The box should have been taken from the fixture. The box could have been plucked from the fixture.
+4 Take all the boxes from the tray and place them on the table. Take up all the boxes from the tray and place them on the table. Pick up all the boxes from the tray and put them on the table. Pick all boxes from the tray and put them on the table.
+1 Pick up the boxes, they should be placed on the tray. 
+1 Pick up the boxes and put them on the table. 
+3 Move the box to the washer. Move the box to the washer. Transporting the box to the washer.
+2 The box should be moved from the pallet to the washer. The box should be moved from the pallet to the washer.
+3 Search in the z-direction until contact. Stir in the z-direction until contact. Move in the z-direction until contact.
+3 Search in the x-direction until the contact or timeout. Stir in the z direction until the contact or timeout. Move in the z-direction until the contact or timeout.
+3 Search in the z-direction until contact and timeouts. Stir in the z direction until the contact and timeout. Move in the z-direction until the contact and timeout.
+3 Search in the z-direction until the force 5 Newton. Stir in the z-direction until the force 5 Newton. Move in the z-direction until the force 5 Newton.
+3 Search in the z-direction until you measure 5 Newton. Stir in the z-direction until you measure 5 Newton. Move in the z-direction until you measure 5 Newton.
+3 Search in the z-direction until you measure 5 Newton or timeout. Stir in the z-direction until you measure 5 Newton or timeout. Move in the z-direction until you measure 5 Newton or timeout.
+3 Search in the z-direction until you measure 5 Newton and contact. Stir in the z-direction until you measure 5 Newton and contact. Move in the z-direction until you measure 5 Newton and contact.
+3 Search in the z-direction until a timeout or measuring 5 Newton. Stir in the z-direction until a timeout or measuring 5 Newton. Move in the z-direction until a timeout or measuring 5 Newton.
+3 Search in the z-direction until time out, and you measure 5 Newton. Stir in the z-direction until timeout, and you measure 5 Newton. Move in the z direction until timeout, and you measure 5 Newton.
+3 Search in the z-direction until a timeout or measuring 5 Newton. Stir in the z-direction until a timeout or measuring 5 Newton. Move in the z-direction until a timeout or measuring 5 Newton.
+2 Install the metal plate on the PCB using the deposit method. Inserting the metal plate on the PCB, use insertion method.
+1 Go to the home position. 
+2 Move to the home position. Move to the home position.
+2 Moving the arm to the starting position. Move the arm to the starting position.
+2 The arm will be moved to the home position. The arm will be moved to the home position.
+2 The arm will be moved to the starting position. The arm will be moved to the starting position.
+1 The boxes should be taken and be placed on the tray .
+2 Take three boxes from the fixture and place them on the table. Then, from the fixture, three boxes and place them on the table. 
+2 Box and box bottom should be mounted. Box and box bottom to be joined. 
+3 Install the switch and box bottom. Assemble the switch and box bottom. Merge switch and box bottom.
+3 Mount the switch with box bottom. Assemble the switch with box bottom. Merge breaker with box bottom.
+3 Install the switch on box bottom. Assemble the switch at box bottom. Merge switch on box bottom.
+1 Remove the switch from the fixture and mount it on box bottom using snapfit.
+1 Use snapfit to mount the switch on the box.
+1 Use snapfit to mount the switch with the box.
+1 Use snapfit to mount the switch and the box.
+1 Use snapfit to mount the switch to the box.
+1 Apply snapfit to mount the switch to the box.
+1 Apply snapfit to mount the switch to the box.
+1 Screw the screw with nut. 
+1 Turn the screw in the nut by means of a screwdriver.
+1 Change to the two-finger grpper.
+1 The tool should be replaced by suction gripper to two-finger gripper.
+3 Move along the y - axis until the timeout. Search along the y - axis until the timeout. Move along the y - axis until the timeout.
+1 Move in the z-direction until you measure 5 Newton. 
+2 Move in the z-direction until the measurement of 5 Newton. Moving in the z direction until the measurement of 5 Newton.
+4 Move along the z -axis until you measure 5 Newton. Move along the z-axis until you measure 5 Newton. Move along the z-axis until you measure 5 Newton. Move along the z-axis until you measure 5 Newton.
+2 Until the contact, search in the z-direction. Until the contact , move in the z direction. 
+1 Search in the z-direction until contact while holding 5 N in the y-direction 
+1 Move in the z-direction until the connector while holding 5 N in the y-direction and is 4 N in the x direction.
+1 Move in the z direction until the connector while holding 5 Newton in the y direction and is 4 Newtons in the x direction.
+2 Move along the z-axis until contact while you retain 5 N in the y-direction and is 4 N in the x-direction. Move along the z-axis until contact while you retain 5 N in the y-direction and is 4 N in the x-direction.
+1 Move along the z-axis until contact while holding 5 Newton in the y-direction and maintains 4 Newton in the x-direction
+1 Search in the z-direction until contact while maintaining 5 N in the y-direction and N is 4 in the x-direction.
+1 Search in the z-direction until the connector while holding 5 Newton in the y-direction and maintains 4 Newton in the x-direction.
+1 Move along the z-axis until contact or 3 N while holding 5 Newton in the y-direction and maintains 4 Newton in the x-direction.
+1 Move in the z-direction until a timeout or the force of 3 N while holding 5 Newton in the y-direction and maintains 4 Newton in the x-direction.
+1 While holding 5 Newton in the y-direction and is 4 Newtons in the x direction, going in the z-direction until you feel 4 Newton.
+1 While holding 5 Newton in the y-direction and is 4 Newtons in the x-direction, going in the z-direction until you feel 4 Newton or timeout.
+2 While holding 5 Newton in the y-direction and is 4 Newtons in the x-direction, move in the z-direction until you feel 4 Newton. While holding 5 Newton in the y direction and is 4 Newtons in the x direction, moving in the z direction until you feel 4 Newton.
+2 While holding 5 Newton in the y-direction and is 4 Newtons in the x-direction, move in the z-direction until you feel 4 Newton or timeout. While holding 5 Newton in the y-direction and is 4 Newtons in the x-direction, moving in the z-direction until you feel 4 Newton or timeout.
+1 While holding 5 Newton in the y-direction and is 4 Newtons in the x-direction, search in the z-direction until you feel 4 Newton.
+1 While holding 5 Newton in the y-direction and is 4 Newtons in the x direction, search in the z-direction until you feel 4 Newton or timeout.
+2 Rotate the screw around the z-axis until the stop. Spin the screw around the z axis until the stop.
+2 Rotate around the z-axis until the stop. Spin around the z-axis until the stop. 
+1 Turn around the z-axis until the stop
+3 You can turn around the z-axis until the stop. You can rotate around the z-axis until the stop. Can you spin around the z-axis until the stop.
+1 Turn the screw around the z axis until the stop.
+2 Install the switch in the box, use snapfit. Assemble the switch with the box by using snapfit.
+1 Move to the end position , open the gripper and pulling back from the box.
+2 Locate the podium. Find the pallet.
+1 Approach the box. 
+1 Approach the box, open the gripper and move to the starting position, then close the gripper and withdraw from the fixture.
+2 Please check the box and place it on the table. Please pick up the box and put it on the table. 
+1 Can you please take the box and place it on the fixture.
+1 Can you perhaps take the box and then please place it on the fixture.
+1 Do not take the box and place it on the fixture.
+1 Do not kill the man.
+2 You should not take the box and place it on the table. You should not take the box and do not place it on the table. 
+1 Pick up some box.
+1 Move to Home location, but do not pick up the box.
+1 Move to the corner of the fixture and drop box.
+2 Grip the needle. Grab the needle.
+1 If you measure more than 5 N, stop the task.
+1 Restart program. 
+1 Upon collision , restart the application. 
+2 Stay the execution. Turn off the execution.
+2 Run the calibration routine. Execute the calibration procedure.
+3 Repeat gland. Run gland. Restart gland.

@@ -1,0 +1,22 @@
+Line 2: Open the gripper and close the gripper. Open not predicate.
+Line 6: Open the gripper, thank you. Open not predicate.
+Line 22: Search in the z-direction until you measure 5 Newton. Search not predicate.
+Line 23: Search in the z-direction until you measure 5 Newton or timeout. Search not predicate.
+Line 24: Search in the z-direction until you measure 5 Newton and contact. Search not predicate.
+Line 25: Search in the z-direction until timeout or measuring 5 Newton. Search not predicate.
+Line 26: Search in the z-direction until timeout and measuring 5 Newton. Search not predicate.
+Line 27: Search in the z-direction until measuring 5 Newton or timeout.
+Line 48: Turn the screw into the nut using the screw driver. Turn not predicate.
+Line 61: Search in the z-direction until contact while keeping 5 N in the y-direction and holding 4 N in the x-direction. Search not predicate.
+Line 62: Search in the z-direction until the contact while holding 5 Newton in the y-direction and keeping 4 Newton in the x-direction. Search not predicate.
+Line 67: While holding 5 Newton in the y-direction and is 4 Newton in the x-direction, moving in the z-direction until you sense 4 Newton. While command not condition on move.
+Line 68: While holding 5 Newton in the y-direction and keeping 4 Newton in the x-direction, move in the z-direction until you sense 4 Newton or timeout. While-comand not parsed.
+Line 68: While-condition not condition to move..
+Line 70: While holding 5 Newton in the y-direction and keeping 4 Newton in the x-direction, search in the z-direction until you sense 4 Newton or timeout. While-command not condition to search.
+Line 72: Rotate around the z-axis until stop. Rotate not predicate.
+Line 73: Turn around the z-axis until a stop. Turn not predicate.
+Line 74: You can rotate around the z-axis until a stop. Rotate not predicate.
+Line 74: Can you rotate around the z-axis until the stop. Rotate not predicate.
+Line 77: Move to the end position , open the gripper and retract from the box. Open is not predicate.
+
+
